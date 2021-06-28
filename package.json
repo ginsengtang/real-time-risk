@@ -1,0 +1,8 @@
+{
+  "name": "real-time-risk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ginsengtang/real-time-risk.git",
+  "author": "George Tang <gtang.gt@gmail.com>",
+  "license": "MIT"
+}
